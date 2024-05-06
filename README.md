@@ -12,12 +12,26 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <h2><strong>SOCIAL:</h2>
 <div>
-  <a href="https://www.instagram.com/sakoda999/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-sakoda-44018a28b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="" target="_blank"></a>
+  <a href=""><img src=""></a> 
 </div>
 <br>
-                                                                                                                                                                                                             
-##
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSakoda&langs_count=8&theme=dracula)
 
-![Gabriel Sakoda Stats](https://github-readme-stats.vercel.app/api?username=GabrielSakoda&show_icons=true&theme=dracula)
+- 🌱 Atualmente estou aprendendo **o básico, como Css, Html e js**
+
+- 🤝 Estou procurando ajuda com **professores para melhorar**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [##](##)
+
+- 📝 Escrevo regularmente artigos sobre [##](##)
+
+- 💬 Pergunte-me sobre **o que você tem curiosidade**
+
+- 📫 Como entrar em contato comigo **ggabrelmarcelino@gmail.com**
+
+- 📄 Conheça minhas experiências [##](##)
+
+- ⚡ Curiosidade **gosto de trabalhar em equipe e sou sociavel**
+
+<p align="left">
+</p>
