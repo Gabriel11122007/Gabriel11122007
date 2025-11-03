@@ -27,7 +27,7 @@
 
 - 💬 Pergunte-me sobre **o que você tem curiosidade**
 
-- 📫 Como entrar em contato comigo **ggabrelmarcelino@gmail.com**
+- 📫 Como entrar em contato comigo **ggabrielmarcelino@gmail.com**
 
 - 📄 Conheça minhas experiências [##](##)
 
