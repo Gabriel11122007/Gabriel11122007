@@ -50,8 +50,8 @@ Gosto de criar soluções práticas, funcionais e bem estruturadas, sempre busca
 <div align="left">
 
 - 🌐 **Portfólio:** https://portif-lio-orpin-six.vercel.app/  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/SEU-USUARIO  
-- 📸 **Instagram:** https://www.instagram.com/SEU-USUARIO  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gabriel-gazeta-marcelino-ab3a26379/ 
+- 📸 **Instagram:** https://www.instagram.com/gazeta_.72/ 
 - 📫 **Email:** ggabrielmarcelino@gmail.com  
 
 </div>
