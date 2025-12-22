@@ -1,37 +1,72 @@
-<div style="display: inline_block"><br>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7540F7&center=true&random=false&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o" alt="Typing SVG" /></a></p>
-<h2><strong>MY SKILLS:</h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<h2><strong>LEARNING:</h2>
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"/>
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <h2><strong>SOCIAL:</h2>
-<div>
-  <a href="" target="_blank"><img src="" target="_blank"></a>
-  <a href=""><img src=""></a> 
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7540F7&center=true&vCenter=true&width=500&lines=Gabriel+Marcelino;Desenvolvedor+Web;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
+</a>
+
 </div>
-<br>
 
-- 🌱 Atualmente estou aprendendo **o básico, como Css, Html e js**
+---
 
-- 🤝 Estou procurando ajuda com **professores para melhorar**
+## 👋 Sobre mim
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [##](##)
+Sou **Gabriel Marcelino**, desenvolvedor web e estudante de **Engenharia de Software**.  
+Gosto de criar soluções práticas, funcionais e bem estruturadas, sempre buscando evoluir tecnicamente e trabalhar bem em equipe.
 
-- 📝 Escrevo regularmente artigos sobre [##](##)
+- 🌱 Em constante aprendizado no desenvolvimento web  
+- 🤝 Aberto a aprender com pessoas mais experientes  
+- ⚡ Comunicativo e gosto de trabalhar em equipe  
 
-- 💬 Pergunte-me sobre **o que você tem curiosidade**
+---
 
-- 📫 Como entrar em contato comigo **ggabrielmarcelino@gmail.com**
+## 🚀 Tecnologias
 
-- 📄 Conheça minhas experiências [##](##)
+### 🧠 Skills principais
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MySQL" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
 
-- ⚡ Curiosidade **gosto de trabalhar em equipe e sou sociavel**
+### 📚 Em aprendizado
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="React" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Node.js" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</div>
 
-<p align="left">
-</p>
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="left">
+
+- 🌐 **Portfólio:** https://portif-lio-orpin-six.vercel.app/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/SEU-USUARIO  
+- 📸 **Instagram:** https://www.instagram.com/SEU-USUARIO  
+- 📫 **Email:** ggabrielmarcelino@gmail.com  
+
+</div>
+
+---
+
+## 📂 Projetos
+
+👨‍💻 Todos os meus projetos estão disponíveis no meu portfólio:  
+👉 **https://portif-lio-orpin-six.vercel.app/**
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor, ganhar experiência com projetos reais e construir uma carreira sólida na área de tecnologia.
+
+⭐ Se algum projeto te ajudar ou chamar atenção, fique à vontade para deixar uma estrela!
